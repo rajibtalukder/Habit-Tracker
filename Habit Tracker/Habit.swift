@@ -1,8 +1,11 @@
-//
-//  Habit.swift
-//  Habit Tracker
-//
-//  Created by YOTECH MAC01 on 25/05/2026.
-//
 
 import Foundation
+
+struct Habit : Identifiable{
+    var id = UUID()
+    var title : String
+    var icon : String
+    var colorName : String
+    var isCompleted : Bool
+    var streak : Int
+}
