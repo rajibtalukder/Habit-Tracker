@@ -90,7 +90,3 @@ struct HabitCardView: View {
         )
     }
 }
-
-#Preview {
-    ContentView()
-}
