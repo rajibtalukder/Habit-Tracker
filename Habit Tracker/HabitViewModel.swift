@@ -45,7 +45,6 @@ class HabitViewModel: ObservableObject {
            let decoded = try? JSONDecoder().decode([Habit].self, from: data) {
             self.habits = decoded
         } else {
-            // Default sample data on first run
             self.habits = [
                 Habit(title: "Drink Water", icon: "drop.fill", colorName: "blue", isCompleted: false, streak: 5),
                 Habit(title: "Morning Yoga", icon: "figure.mind.and.body", colorName: "purple", isCompleted: true, streak: 12),
