@@ -17,7 +17,6 @@ struct ContentView: View {
                             .font(.title2.bold())
                             .padding(.horizontal)
                         
-                        // Habit List
                         VStack(spacing: 16) {
                             ForEach(viewModel.habits) { habit in
                                 HabitCardView(habit: habit) {
