@@ -9,6 +9,9 @@ Habitly is an elegant, minimalist routine tracker built from scratch using Swift
 <p align="center">
   <img src="https://github.com/rajibtalukder/Habit-Tracker/blob/main/Habit%20Tracker/Screenshots/Dashboard.png" width="300" alt="Habitly App Dashboard"/>
 </p>
+<p align="center">
+  <img src="https://github.com/rajibtalukder/Habit-Tracker/blob/main/Habit%20Tracker/Screenshots/HabitAdd.png" width="300" alt="Habitly App Dashboard"/>
+</p>
 
 ---
 
