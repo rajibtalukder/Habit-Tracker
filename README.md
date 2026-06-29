@@ -1,4 +1,4 @@
-# Habitly — Modern iOS Habit Tracker
+Habitly — Modern iOS Habit Tracker
 
 Habitly is an elegant, minimalist routine tracker built from scratch using SwiftUI. The project is designed to showcase clean software engineering practices, fluid animations, and robust local data persistence on iOS.
 
